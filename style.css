@@ -17,10 +17,13 @@
 }
 
 body {
+    /* overflow: hidden; */
+    max-width: 100%;
     height: 100vh;
     background: #c4bcbca9 url(/media/flores.jpg)center center no-repeat;
     background-size: cover;
 }
+
 
 a {
     text-decoration: none;
